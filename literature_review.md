@@ -1,4 +1,4 @@
-# 📚 Literature Review (Job-Oriented)
+# 📚 Literature Review 
 
 This document lists key research papers studied for building a Movie Recommendation System.
 Each paper contributed specific ideas that were applied or influenced design decisions
